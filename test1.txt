@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Angus McGurkinshaw, 10, 30, 11, 25
 Alison Mau, 30, 50, 80, 100, 0, 3
 ChinMay Zhang, 40
 A B C, 50, 3
 Peter Peter Pumpkin Eater, 700, 600, 500, 400, 300, 200, 100, 0
+=======
+implesuzz esttuzz asecuzz
+implesuzz esttuzz asecuzz ineluzz 2buzz
+implesuzz esttuzz asecuzz ineluzz 3buzz
+implesuzz esttuzz asecuzz ineluzz 4buzz
+>>>>>>> 8126835f6ab847c9a20dc1421d6de384b0be6b13
