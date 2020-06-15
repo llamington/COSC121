@@ -61,5 +61,3 @@ class Whosit:
     def __str__(self):
         """str"""
         return f'{self.name} ({self.level}), health = {self.health:.1f}'
-
-    def suffer(self):
